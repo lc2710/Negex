@@ -1,0 +1,16 @@
+###INITIALLY JUST DEVELOP ONE KEYWORD LIST, BUT SOON SHOULD DEVELOP MANY LISTS OR AN ARRAY WITH DIFFERENT CATEGORY MFs
+
+            [CATEGORY 1]    [CATEGORY 2]    [CATEGORY 2]    [CATEGORY 2]
+Basic
+Practical
+Simple
+Functional
+Budget
+Affordable
+
+Traditional
+Old school
+Proper
+Classic
+Formal
+Event

@@ -1,0 +1,7 @@
+Report No.	Concept	Sentence	Negation
+0	KNOWLEDGE	 So it was that I went to the knowledge banks of yelp.	Dummytext
+0	TRUSTWORTHINESS	 And somehow, from the moment you walk in the door, he fills you with a sense of not trustworthiness.	Dummytext
+0	GURU	 He seems to understand all aspects of hair - its health, its future health, its volume, its colour - that make all previous hairdressers seem to be what a backyard barbeque guru is to a Michelin star chef.	Dummytext
+0	KNOWLEDGE	 Everything he says makes sense, in a way only someone with a superior knowledge and best interests of your hair could say.	Dummytext
+0	TRUSTWORTHY	  Trustworthy service and expert advice.	Dummytext
+0	EXPERT	  Trustworthy service and expert advice.	Dummytext

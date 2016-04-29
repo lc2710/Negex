@@ -1,0 +1,8 @@
+Report No.	Concept	Sentence	Negation
+2	straightened    cut	I went to Tom Zappala a year ago and six months ago went to another salon to have my hair straightened and cut.	Affirmed
+2	Right ventricular size is normal	RIGHT VENTRICULAR SIZE IS NORMAL.	Affirmed
+2	Right ventricular wall thickness is normal	RIGHT VENTRICULAR WALL THICKNESS IS NORMAL.	Affirmed
+2	Right ventricular function is   normal	RIGHT VENTRICULAR FUNCTION IS   NORMAL.	Affirmed
+1	helpful 	HE WAS NOT KIND OR HELPFUL.	Negated
+1	staph   bacteremia	"S_O_H  Counters Report Type Record Type Subgroup Classifier  1,01TdvtyYejbW DS DS 1504  E_O_H  [Report de-identified (Safe-harbor compliant) by De-ID v.6.14.02]         **INSTITUTION   CARDIOLOGY   DISCHARGE SUMMARY  PATIENT NAME:  **NAME[AAA, BBB M]  ACCOUNT #:  **ID-NUM   **ROOM   ATTENDING PHYSICIAN:  **NAME[YYY M ZZZ]  ADMISSION DATE:  **DATE[Sep 27 2007]  DISCHARGE DATE: **DATE[Oct 07 2007]  The patient is a **AGE[in 60s]-year-old gentleman who presented to **INSTITUTION   with complaints of shortness of breath and was found to have STAPH   BACTEREMIA."	Affirmed
+3	stomach pain	Denies headache but admits to having stomach pain.	Negated

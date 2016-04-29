@@ -1,0 +1,7 @@
+Percentage correct:	0.0
+0	KNOWLEDGE	 So it was that I went to the knowledge banks of yelp.	Dummytext	So it was that I went to the [PHRASE]knowledge[PHRASE] banks of yelp.	affirmed
+0	TRUSTWORTHINESS	 And somehow, from the moment you walk in the door, he fills you with a sense of not trustworthiness.	Dummytext	And somehow, from the moment you walk in the door, he fills you with a sense of [PREN]not[PREN] [NEGATED]trustworthiness[NEGATED].	negated	[NEGATED]trustworthiness[NEGATED].
+0	GURU	 He seems to understand all aspects of hair - its health, its future health, its volume, its colour - that make all previous hairdressers seem to be what a backyard barbeque guru is to a Michelin star chef.	Dummytext	He seems to understand all aspects of hair - its health, its future health, its volume, its colour - that make all previous hairdressers seem to be what a backyard barbeque [PHRASE]guru[PHRASE] is to a Michelin star chef.	affirmed
+0	KNOWLEDGE	 Everything he says makes sense, in a way only someone with a superior knowledge and best interests of your hair could say.	Dummytext	Everything he says makes sense, in a way only someone with a superior [PHRASE]knowledge[PHRASE] and best interests of your hair could say.	affirmed
+0	TRUSTWORTHY	  Trustworthy service and expert advice.	Dummytext	[PHRASE]Trustworthy[PHRASE] service and expert advice.	affirmed
+0	EXPERT	  Trustworthy service and expert advice.	Dummytext	Trustworthy service and [PHRASE]expert[PHRASE] advice.	affirmed
