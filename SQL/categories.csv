@@ -1,0 +1,849 @@
+Style
+	Personal Style
+		Personal Shopper
+			Consultation & personal shop
+				180mins
+				120mins
+			Power shop
+	Tailor
+		Suit
+			null
+				2 Garments
+				3+ Garments
+				1 Garment
+		Dress
+			null
+				3+ Garments
+				1 Garment
+				2 Garments
+		Skirt
+			null
+				2 Garments
+				1 Garment
+				3+ Garments
+		Other
+			null
+				1 Garment
+				2 Garments
+				3+ Garments
+		Trousers
+			null
+				3+ Garments
+				2 Garments
+				1 Garment
+		Top (Male)
+			null
+				2 Garments
+				3+ Garments
+				1 Garment
+		Top (Female)
+			null
+				1 Garment
+				2 Garment
+				3+ Garment
+		Pants (Female)
+			null
+				1 Garment
+				2 Garment
+				3+ Garment
+	Alterations
+		Repair
+			null
+				2 Garment
+				3+ Garment
+				1 Garment
+		Resize
+			null
+				2 Garment
+				3+ Garment
+				1 Garment
+		Embroidery
+			null
+				1 Garment
+				2 Garments
+				3+ Garments
+		Zip/Button Replacement
+			null
+				2 Garment
+				3+ Garment
+				1 Garment
+		Shorten/Lengthen
+			null
+				2 Garment
+				3+ Garment
+				1 Garment
+	Shoes
+		Modifications
+			Heels & soles
+				2 Pairs
+				1 Pair
+			Shoe stretching
+				2 Pairs
+				1 Pair
+		Repair
+			Heels & soles
+				2 Pairs
+				1 Pair
+			Rips & Holes
+				2 Pairs
+				1 Pair
+			Zip/Velcro/Strap Repair
+				2 Pairs
+				1 Pair
+Wellness
+	Massage
+		Remedial
+			Half Body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Full Body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Back & Shoulders
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Foot
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+		Classic
+			Half Body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Full Body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Back & Shoulders
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Foot
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+		Reflexology
+			30mins
+				Half Body
+				Full Body
+				Back & Shoulders
+				Foot
+			60mins
+				Half Body
+				Full Body
+				Back & Shoulders
+				Foot
+			75mins
+				Half Body
+				Full Body
+				Back & Shoulders
+				Foot
+			90mins
+				Half Body
+				Full Body
+				Back & Shoulders
+				Foot
+			Half Body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Full Body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Back & Shoulders
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Foot
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+		Thai
+			Back & shoulders
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Half body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Full body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Feet
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+		Aromatherapy
+			Back & shoulders
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Half body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Full body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Feet
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+		Hot Stone
+			Full body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+	Body
+		Cupping
+			Dry Cupping
+				20mins
+				30mins
+				60mins
+			Wet Cupping
+				20mins
+				30mins
+				60mins
+			Massage Cupping
+				20mins
+				30mins
+				60mins
+		Physio
+			null
+				30mins
+				60mins
+		Acupuncture
+			Back & shoulders
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Half body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Full body
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+			Feet
+				30mins
+				60mins
+				75mins
+				90mins
+				120mins
+		Foot Bath
+			null
+				60mins
+				90mins
+				30mins
+		Body Scrub
+			null
+				60mins
+				90mins
+				30mins
+		Body Wrap
+			null
+				60mins
+				90mins
+				30mins
+	Mind
+		Meditation
+			Zen
+				60mins
+				90mins
+				30mins
+			Meditate
+				60mins
+				90mins
+				30mins
+			Sound
+				60mins
+				90mins
+				30mins
+		Floatation
+			null
+				30mins
+				60mins
+	Movement
+		Pilates
+			Individual
+				30mins
+				60mins
+				90mins
+			Group
+				30mins
+				60mins
+				90mins
+		Yoga
+			Individual
+				30mins
+				60mins
+				90mins
+			Group
+				30mins
+				60mins
+				90mins
+Grooming
+	Make Up
+		Makeover
+			null
+				90mins
+				60mins
+		Occasion
+			null
+				30mins
+				60mins
+		Professional
+			null
+				30mins
+				60mins
+	Tan
+		Spray tan
+			Face only
+				Dark tan
+				Lightly Sunkist
+				Medium tan
+			Full body
+				Lightly sunkist
+				Medium tan
+				Dark tan
+			Half body
+				Medium tan
+				Dark tan
+				Lightly sunkist
+	Nails
+		File & paint
+			Feet
+				Standard Polish
+				Shellac
+			Hands
+				Standard Polish
+				Shellac
+		Manicure
+			null
+				Express
+				Standard Polish
+				Shellac
+		Full set
+			Gel
+				Standard Polish
+				Shellac
+			Acrylic
+				Standard Polish
+				Shellac
+		Mani & Pedi
+			null
+				Express
+				Standard
+				Shellac
+		Pedicure
+			null
+				Express
+				Standard
+				Shellac
+				Spa
+	Hair Removal
+		Wax
+			Shoulders
+			Fingers/Toes
+			Forehead
+			Chest & Stomach
+			Ear
+			Stomach
+			¾ arm
+			Eyebrows
+			Snail trail
+			Bikini
+			Half leg
+			Full arm
+			Brazilian
+			Sides of face
+			G-string
+			Half arm
+			Chin
+			Underarms
+			Chest
+			Backside
+			Full leg
+			Back & Shoulders
+			Hands/Feet
+			Face 
+		Sugaring
+			Backside
+			Bikini
+			Lower back
+			Whole back
+			Upper lip
+			Half arm
+			Full leg
+			Half leg
+			Brazilian
+			Eyebrows
+			Full arm
+			Stomach
+			Snail trail
+			Underarms
+		Laser
+			Half leg
+			Full leg
+			Half arm
+			Full arm
+			Underarms
+			Stomach
+			Bikini
+			Backside
+			Chest
+			Back
+	Treatments
+		Facial
+			Exfoliating
+			Extraction
+			Rejuvenate
+			Pore cleansing
+			Anti Aging
+	Hair (Female)
+		Colour
+			Balayage
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Ombre
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Semi
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Toner
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Half Head Foils
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Full Head Foils
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Part Line Foils
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Quarter Head Foils
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Regrowth
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Colour Correction
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Tint
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+		Cut
+			Fringe Trim
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Hair Reshape
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Standard Cut
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+		Wash & Blowave
+			Blowave only
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Wash only
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+			Both
+				Junior Stylist
+				Standard Stylist
+				Senior Stylist
+		Permanent Straightening
+			null
+				Short Length
+				Medium Length
+				Long Length
+		Treatment
+			Thin
+				Short Length
+				Medium Length
+				Long Length
+			Thick
+				Short Length
+				Medium Length
+				Long Length
+			Oily
+				Short Length
+				Medium Length
+				Long Length
+			Dry
+				Short Length
+				Medium Length
+				Long Length
+		Special Occasion
+			Hair down
+				Long Length
+				Medium Length
+				Short Length
+			Straightened
+				Short Length
+				Long Length
+				Medium Length
+			Half up
+				Long Length
+				Short Length
+				Medium Length
+			Curled
+				Long Length
+				Medium Length
+				Short Length
+			Blowdry
+				Medium Length
+				Short Length
+				Long Length
+			Hair up
+				Long Length
+				Short Length
+				Medium Length
+	Hair (Male)
+		Hair
+			Buzzcut
+			Back and Sides
+			Trim
+			Style
+			Wash and Cut
+		Beard
+			Straight Razor
+			Beard Trim
+			Standard Shave
+		Hair and Beard
+			Standard
+	Eyebrow
+		Art
+			Brow Extensions
+			Cosmetic Tattoo
+			3D Embroidery
+			Eyeliner Tattoo
+			Eyebrow Shaping
+		Tint
+			Lash & Brow
+			Eyebrows
+			Eyelashes
+Local Guide
+	Local Guide
+		City guide
+			Individual
+				2 hours
+				4 hours
+				8 hours
+			Group
+				2 hours
+				4 hours
+				8 hours
+		Sightseeing
+			Individual
+				2 hours
+				4 hours
+				8 hours
+			Group
+				2 hours
+				4 hours
+				8 hours
+		Countryside
+			Individual
+				2 hours
+				4 hours
+				8 hours
+			Group
+				2 hours
+				4 hours
+				8 hours
+	Language Translator
+		Cantonese Translation
+			English
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			French
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Spanish
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Italian
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+		Thai Translation
+			English
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			French
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Spanish
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Italian
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+		Malaysian Translation
+			English
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			French
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Spanish
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Italian
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+		Mandarin Translation
+			English
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			French
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Spanish
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+			Italian
+				1 hour
+				2 hours
+				4 hours
+				6 hours
+				8 hours
+	Fixer
+		Food
+			4 hours
+			2 hours
+			8 hours
+		Location
+			2 hours
+			8 hours
+			4 hours
+		Culture
+			8 hours
+			2 hours
+			4 hours
+Technical
+	Audio Visual Technician
+		Audio
+			Troubleshooting
+			Audio tests
+			Equipment set up
+			Connectivity
+		Visual
+			Connectivity
+			Visual tests
+			Equipment set up
+			Troubleshooting
+	Mobile
+		Other
+			Dead phone
+			Unlock
+			General repair
+			Troubleshooting
+			Broken screen
+		iOS
+			Troubleshooting
+			Unlock
+			Dead phone
+			General repair
+			Broken screen
+		Android
+			Dead phone
+			Troubleshooting
+			Unlock
+			General repair
+			Broken screen
+	Laptop Repair
+		PC
+			Broken screen
+			Spilt liquid
+			Keyboard not working
+			Hardrive configuration
+			Back up / Hardrive recovery
+			Email configuration
+			Unsure
+			Troubleshooting
+			Hardrive configuration
+			Virus protection & removal
+			Connectivity
+		Apple
+			Broken screen
+			Spilt liquid
+			Keyboard not working
+			Unsure
+			Hardrive configuration
+			Hardware configuration
+			Connectivity
+			Virus protection & removal
+			Troubleshooting
+			Back up / Hardrive recovery
+Fitness
+	Personal Trainer
+		Weight Loss
+			null
+				60mins
+				75mins
+				45mins
+		Overall Fitness
+			null
+				60mins
+				75mins
+				45mins
+		Muscle Gain
+			null
+				60mins
+				45mins
+				75mins
+		MMA
+			null
+				45mins
+				60mins
+				75mins
+		Boxing
+			null
+				75mins
+				60mins
+				30mins
+	Classes
+		Crossfit
+			null
+			null
+				30mins
+				60mins
+				90mins
+		Kettlebell
+			null
+				30mins
+				60mins
+				90mins
+		Zumba
+			null
+				30mins
+				60mins
+				90mins
+		Spin
+			null
+				30mins
+				60mins
+				90mins
